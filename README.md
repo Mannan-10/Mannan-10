@@ -34,15 +34,16 @@
 
 ## 🚀 Featured Projects
 
-### 📘 THAKSA – E-Learning Platform
+### 📘 SkillForge – E-Learning Platform
 
 A full-stack e-learning platform built using **React.js, Node.js, Express.js and PostgreSQL**.
 
 * Developed role-based modules for students, instructors and administrators.
 * Designed workflows for authentication, courses, batches, enrollments and learning progress.
-* Worked with REST APIs and relational database structures.
+* Built REST API-based backend functionality with relational database integration.
+* Improved project structure, documentation and repository presentation for professional portfolio use.
 
-🔗 [View Repository](https://github.com/Mannan-10/THAKSA_E-LEARNING)
+🔗 Repository: https://github.com/Mannan-10/skillforge-elearning-platform
 
 ---
 
